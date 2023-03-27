@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"玲芽之旅","id":"4bf7ad3fe57a30d6","x":-600,"y":-20,"width":120,"height":60,"color":"5"},
+		{"type":"text","text":"女主（岩户铃芽）","id":"db3f0fd13c4c34d2","x":-1140,"y":-410,"width":201,"height":60,"color":"1"},
+		{"type":"text","text":"男主（宗像草太）","id":"adc4745952ae0d6e","x":-1140,"y":280,"width":201,"height":60,"color":"1"},
+		{"type":"text","text":"姨妈（岩户环）","id":"5ad5656b49be41e7","x":-92,"y":-410,"width":192,"height":60,"color":"4"},
+		{"type":"text","text":"白猫（大臣）","id":"6c7a546bcee3c27d","x":-820,"y":-780,"width":160,"height":60,"color":"2"},
+		{"type":"text","text":"神明，封印蚓厄的要石之一","id":"11c349e632d4b93f","x":-187,"y":-780,"width":260,"height":60,"color":"6"},
+		{"type":"text","text":"黑猫（左大臣）","id":"995a92fe040ff11b","x":-568,"y":-640,"width":177,"height":60,"color":"2"},
+		{"type":"text","text":"同大臣","id":"6aaa1235d16b7a1c","x":-37,"y":-640,"width":110,"height":60,"color":"6"},
+		{"type":"text","text":"男二（芹泽朋也）","id":"a8a02a4e531c1165","x":-112,"y":280,"width":192,"height":60,"color":"4"},
+		{"id":"9d512dd2dca5ca9c","x":-1740,"y":280,"width":240,"height":60,"color":"6","type":"text","text":"关门师，错过了教资考试"},
+		{"id":"ef1f38a8b9483e7a","x":-1652,"y":-410,"width":185,"height":60,"color":"6","type":"text","text":"行动力强的学生"},
+		{"id":"2a09135ac7362947","x":300,"y":-410,"width":280,"height":60,"color":"6","type":"text","text":"单身，替铃芽的母亲照顾铃芽"},
+		{"id":"3af9a84cb6b92cc0","x":420,"y":280,"width":250,"height":60,"color":"6","type":"text","text":"男主的朋友，打算与男主一起考教资"}
+	],
+	"edges":[
+		{"id":"abdb4c31d339b8f5","fromNode":"6c7a546bcee3c27d","fromSide":"right","toNode":"11c349e632d4b93f","toSide":"left"},
+		{"id":"0b7e15879a149104","fromNode":"995a92fe040ff11b","fromSide":"right","toNode":"6aaa1235d16b7a1c","toSide":"left"},
+		{"id":"d7af0996b7c84ac2","fromNode":"4bf7ad3fe57a30d6","fromSide":"left","toNode":"db3f0fd13c4c34d2","toSide":"right"},
+		{"id":"8677313442806c7b","fromNode":"4bf7ad3fe57a30d6","fromSide":"top","toNode":"6c7a546bcee3c27d","toSide":"left"},
+		{"id":"8ba113888e1c8162","fromNode":"4bf7ad3fe57a30d6","fromSide":"left","toNode":"adc4745952ae0d6e","toSide":"right"},
+		{"id":"3ab7069d064a75bc","fromNode":"4bf7ad3fe57a30d6","fromSide":"top","toNode":"995a92fe040ff11b","toSide":"left"},
+		{"id":"dc47117155628c5f","fromNode":"4bf7ad3fe57a30d6","fromSide":"right","toNode":"5ad5656b49be41e7","toSide":"left"},
+		{"id":"5d2452c694bafe31","fromNode":"4bf7ad3fe57a30d6","fromSide":"right","toNode":"a8a02a4e531c1165","toSide":"left"},
+		{"id":"b8738e6c5eed6f88","fromNode":"9d512dd2dca5ca9c","fromSide":"right","toNode":"adc4745952ae0d6e","toSide":"left"},
+		{"id":"34ff654ed9b03484","fromNode":"ef1f38a8b9483e7a","fromSide":"right","toNode":"db3f0fd13c4c34d2","toSide":"left"},
+		{"id":"1f01323b7c067b86","fromNode":"5ad5656b49be41e7","fromSide":"right","toNode":"2a09135ac7362947","toSide":"left"},
+		{"id":"a383a0aa42a16a78","fromNode":"a8a02a4e531c1165","fromSide":"right","toNode":"3af9a84cb6b92cc0","toSide":"left"}
+	]
+}

@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "0bf343a52c04ac70",
+    "type": "split",
+    "children": [
+      {
+        "id": "08321257f6d93a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aabdd5620802d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/个人影评.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3438d4f79e34b17",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f0db2e3d40c60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efcd4b322f4c6d35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "683749eaebe36e70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a686699018c42135",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8b6bed5dc0dd3f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1985602109bfea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe26e12b72501798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "玲芽之旅/个人影评.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c70aba41476cf4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "玲芽之旅/个人影评.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cb90a8f010272f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25f93f2ff4530854",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "玲芽之旅/个人影评.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3aabdd5620802d52",
+  "lastOpenFiles": []
+}
