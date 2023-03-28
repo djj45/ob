@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玲芽之旅/个人影评.md",
+                "file": "玲芽之旅/参考影评.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "玲芽之旅/个人影评.md",
+                "file": "玲芽之旅/参考影评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "玲芽之旅/个人影评.md",
+                "file": "玲芽之旅/参考影评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玲芽之旅/个人影评.md"
+                "file": "玲芽之旅/参考影评.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "3aabdd5620802d52",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "玲芽之旅/个人影评.md"
+  ]
 }
