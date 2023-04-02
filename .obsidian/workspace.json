@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8325ca0e36fe74f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/特典/搖盪的水面—芹澤朋也的故事.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ecc189888c67760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/参考影评.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2eff76998bf73b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/细节整理/电影里那些消失和隐藏的49处小说细节设定.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c8efb8308958b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/特典/新海诚本1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7fb7e1d2dd72b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玲芽之旅/特典/新海诚本2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "玲芽之旅/参考影评.md",
+                "file": "玲芽之旅/特典/新海诚本2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "玲芽之旅/参考影评.md",
+                "file": "玲芽之旅/特典/新海诚本2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玲芽之旅/参考影评.md"
+                "file": "玲芽之旅/特典/新海诚本2.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,8 +208,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3aabdd5620802d52",
+  "active": "b7fb7e1d2dd72b22",
   "lastOpenFiles": [
+    "玲芽之旅/特典/新海诚本1.md",
+    "玲芽之旅/特典/新海诚本2.md",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgzjx20yj33a04mou0x.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgzjx20yj33a04mou0x.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgzhjrrtj32pb7pskjs.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgzhjrrtj32pb7pskjs.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgxjlxm0j32pk7pskjs.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgxjlxm0j32pk7pskjs.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgz8017ej32os7pshe0.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgz8017ej32os7pshe0.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgyyyuc0j34mo3bdqv9.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgyyyuc0j34mo3bdqv9.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgysv01fj34mo3bcqvb.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgysv01fj34mo3bcqvb.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgykt7xxj32pd7pse87.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgykt7xxj32pd7pse87.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgyda430j32oz7pshdz.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgyda430j32oz7pshdz.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgy5orqfj32os7psnpi.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgy5orqfj32os7psnpi.jpg.crdownload",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgxyq1q4j35eg3v2qvb.jpg",
+    "玲芽之旅/图片/新海诚本2/0077C1Wsly1hcjgxyq1q4j35eg3v2qvb.jpg.crdownload",
+    "玲芽之旅/特典/新海诚本1/未命名.md",
+    "玲芽之旅/细节整理/电影里那些消失和隐藏的49处小说细节设定.md",
+    "玲芽之旅/参考影评.md",
+    "玲芽之旅/特典/搖盪的水面—芹澤朋也的故事.md",
+    "玲芽之旅/特典/希望你不會再做惡夢了—岩戶環的故事.md",
+    "().md",
+    "天气之子/参考影评.md",
     "玲芽之旅/个人影评.md"
   ]
 }
